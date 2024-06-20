@@ -1,6 +1,11 @@
 # jjoin-server
 인력사무소, JJoin Server Repository입니다.
 
+## 📹 시연 영상 
+- https://youtu.be/YSlJenNTM9Y
+
+
+
 # GitHub Role
 다음과 같은 Convetion을 따릅니다.
 
@@ -28,3 +33,5 @@
 | 🔀     | :twisted_rightwards_arrows | 브랜치 합병              |
 | 💡     | :bulb                      | 주석 추가/수정           |
 | 🗃      | :card_file_box             | 데이버베이스 관련 수정   |
+
+
