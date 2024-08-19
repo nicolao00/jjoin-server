@@ -1,5 +1,5 @@
 # jjoin-server
-인력사무소, JJoin Server Repository입니다.
+교내 동아리 홍보, 가입, 활동 관리, 일정 생성 등과 같은 동아리 업무를 통합하여 관리할 수 있는 플랫폼입니다.
 
 ## 📹 시연 영상 
 - https://youtu.be/YSlJenNTM9Y
